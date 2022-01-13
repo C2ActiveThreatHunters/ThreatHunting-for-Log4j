@@ -1,7 +1,7 @@
 # ThreatHunting-for-Log4j
 This repo will be validating various threat hunting scenarios based on Log4j Exploitation and will be comprising of below formats
 
-A> **Vulnerability Scanners**
+****A> **Log4j Vulnerability Scanners****
 
 1. log4sh-detect is a MULTI-PLATFORM Python Script that will detect hosts vulnerable to the log4shell Exploit.	
 	https://github.com/mortification77/log4sh-detect
@@ -59,6 +59,8 @@ A> **Vulnerability Scanners**
 	https://github.com/anchore/syft/
 29. log4sh-detect is a MULTI-PLATFORM Python Script that will detect hosts vulnerable to the log4shell Exploit.	
 	https://github.com/mortification77/log4sh-detect.git
-	
-![image](https://user-images.githubusercontent.com/74747843/149327602-390e470d-3734-4e70-bd72-0a82a9c19700.png)
+
+		
+![image](https://user-images.githubusercontent.com/74747843/149327803-b93533a7-ddcb-4e71-8f68-d7d4aa13cf55.png)
+
 
