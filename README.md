@@ -60,4 +60,5 @@ A> **Vulnerability Scanners**
 29. log4sh-detect is a MULTI-PLATFORM Python Script that will detect hosts vulnerable to the log4shell Exploit.	
 	https://github.com/mortification77/log4sh-detect.git
 	
-	![image](https://user-images.githubusercontent.com/74747843/149305645-74a1c0f0-bb84-43e0-a900-a560c7dae7fd.png)
+![image](https://user-images.githubusercontent.com/74747843/149327602-390e470d-3734-4e70-bd72-0a82a9c19700.png)
+
