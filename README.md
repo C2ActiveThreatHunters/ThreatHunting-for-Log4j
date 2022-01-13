@@ -8,5 +8,4 @@ This repo will be validating various threat hunting scenarios based on Log4j Exp
 5. Exploit-Prevention
 6. Security-Tools-Configurations
 
-https://github.com/mortification77/log4sh-detect.git
 ![image](https://user-images.githubusercontent.com/74747843/149301882-f1cdc24f-72a9-4934-853e-7ced885141fb.png)
