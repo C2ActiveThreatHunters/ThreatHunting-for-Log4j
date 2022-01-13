@@ -1,8 +1,6 @@
 # ThreatHunting-for-Log4j
 This repo will be validating various threat hunting scenarios based on Log4j Exploitation and will be comprising of below formats
 
-1. Vulnerability Scanners
-
 1. log4sh-detect is a MULTI-PLATFORM Python Script that will detect hosts vulnerable to the log4shell Exploit.	
 	https://github.com/mortification77/log4sh-detect
 2. Script to identify cloud workloads that may be vulnerable to the Log4j vulnerability(log4shell) in their AWS account	
@@ -58,6 +56,6 @@ This repo will be validating various threat hunting scenarios based on Log4j Exp
 28. Open source SBOM scanner, can detect all dependencies including log4j	
 	https://github.com/anchore/syft/
 29. log4sh-detect is a MULTI-PLATFORM Python Script that will detect hosts vulnerable to the log4shell Exploit.	
-	https://github.com/mortification77/log4sh-detect.git![image]
-  
-  (https://user-images.githubusercontent.com/74747843/149305508-1c696f10-e62b-40be-a7e3-5b1c8805925a.png)
+	https://github.com/mortification77/log4sh-detect.git
+	
+	![image](https://user-images.githubusercontent.com/74747843/149305645-74a1c0f0-bb84-43e0-a900-a560c7dae7fd.png)
