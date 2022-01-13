@@ -1,6 +1,8 @@
 # ThreatHunting-for-Log4j
 This repo will be validating various threat hunting scenarios based on Log4j Exploitation and will be comprising of below formats
 
+A> **Vulnerability Scanners**
+
 1. log4sh-detect is a MULTI-PLATFORM Python Script that will detect hosts vulnerable to the log4shell Exploit.	
 	https://github.com/mortification77/log4sh-detect
 2. Script to identify cloud workloads that may be vulnerable to the Log4j vulnerability(log4shell) in their AWS account	
